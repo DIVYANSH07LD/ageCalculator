@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculate My Age</string>
+    <string name="calculate_age">Calculate</string>
+    <string name="age">Age</string>
+    <string name="inMinute">In Minute</string>
+    <string name="selectDate">Select Date</string>
+    <string name="selectedDate">Selected Date</string>
+    <string name="tillDate">In Minute Till Date</string>
+</resources>
